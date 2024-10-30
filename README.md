@@ -3,9 +3,6 @@
 ## 📱 프로젝트 소개
 RecyclerView 스크롤 시 상단으로 이동하는 버튼이 나타나는 안드로이드 예제 앱입니다.
 
-## 🎥 시연 영상
-https://github.com/user-attachments/assets/76cc9fa7-de0f-41d9-ac33-c9c5966bebe6
-
 ## 🛠 주요 기능
 - RecyclerView를 통한 사용자 목록 표시
 - 스크롤 시 상단 이동 버튼 표시/숨김 애니메이션
@@ -34,3 +31,6 @@ com.stopstone.scrollmovetop
 - RecyclerView
 - ConstraintLayout
 - ViewBinding
+
+## 🎥 시연 영상
+https://github.com/user-attachments/assets/76cc9fa7-de0f-41d9-ac33-c9c5966bebe6
