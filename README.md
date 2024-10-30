@@ -4,7 +4,7 @@
 RecyclerView 스크롤 시 상단으로 이동하는 버튼이 나타나는 안드로이드 예제 앱입니다.
 
 ## 🎥 시연 영상
-![Demo](https://github.com/user-attachments/assets/311e1d7c-0e40-4b9c-a84c-25ea2aa05c88)
+https://github.com/user-attachments/assets/76cc9fa7-de0f-41d9-ac33-c9c5966bebe6
 
 ## 🛠 주요 기능
 - RecyclerView를 통한 사용자 목록 표시
