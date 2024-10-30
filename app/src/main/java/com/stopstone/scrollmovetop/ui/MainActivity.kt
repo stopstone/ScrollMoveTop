@@ -9,7 +9,6 @@ import com.stopstone.scrollmovetop.model.User
 import com.stopstone.scrollmovetop.databinding.ActivityMainBinding
 import com.stopstone.scrollmovetop.ui.adapter.UserAdapter
 
-
 class MainActivity : AppCompatActivity() {
     private val binding: ActivityMainBinding by lazy { ActivityMainBinding.inflate(layoutInflater) }
     private val adapter: UserAdapter by lazy { UserAdapter() }
